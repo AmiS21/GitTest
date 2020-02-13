@@ -5,3 +5,5 @@ Welcome to Git
 login
 
 change : to fix bug1
+
+chnage : to fix bug 2
