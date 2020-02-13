@@ -4,6 +4,9 @@ Welcome to Git
 
 login
 
-change : to fix bug1
+Change : to fix bug1
 
-change : from teammate from remote repo for some feature
+Change : from teammate from remote repo for some feature
+
+Chnage : to fix bug 2
+
