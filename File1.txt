@@ -2,11 +2,12 @@ Hello world!
 
 Welcome to Git
 
-login
+Change 1: login
 
-Change : to fix bug1
+Change 2: to fix bug1
 
-Change : from teammate from remote repo for some feature
+Change 3: from teammate from remote repo for some feature
 
-Chnage : to fix bug 2
+Change 4: to fix bug 2
 
+Change 5: to test reBase and his change is from team mate
